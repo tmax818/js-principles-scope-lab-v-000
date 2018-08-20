@@ -2,3 +2,4 @@
 var customerName = 'bob';
 
 upperCaseCustomerName = () => customerName.toUpper;
+upperCaseCustomerName();
